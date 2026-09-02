@@ -1,0 +1,7 @@
+# Internal working notes
+DEBUGGING.md
+BUGREPORT.md
+
+# Build output
+dist/
+*.zip
